@@ -41,7 +41,7 @@ export const Home: React.FC = () => {
           <div className="relative w-48 h-48 md:w-64 md:h-64 rounded-full border border-white/10 p-2 bg-black/20 backdrop-blur-sm">
             <div className="w-full h-full rounded-full overflow-hidden grayscale hover:grayscale-0 transition-all duration-700">
               <img 
-                src="/1A0A5941.jpg" 
+                src="./public/1A0A5939.jpg" 
                 alt="Profile" 
                 className="w-full h-full object-cover object-top"
               />
