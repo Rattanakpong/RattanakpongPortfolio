@@ -16,7 +16,7 @@ export const Profile: React.FC = () => {
         <div className="relative w-32 h-32 md:w-40 md:h-40 rounded-full border border-white/10 p-1 bg-black/50 backdrop-blur-sm flex-shrink-0">
             <div className="w-full h-full rounded-full overflow-hidden grayscale hover:grayscale-0 transition-all duration-500">
               <img 
-                src="1A0A5941.jpg" 
+                src="./public/1A0A5939.jpg" 
                 alt="Profile" 
                 className="w-full h-full object-cover object-top"
               />
