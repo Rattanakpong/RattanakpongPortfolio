@@ -75,7 +75,7 @@ export const PROJECTS: Project[] = [
     type: "WEB APP",
     description: "Scalable website for CJTT Trading Co., Ltd connects talented Cambodians with rewarding employment opportunities in Japan. Start your journey to a brighter future today.",
     tags: ["React", "CSS", "TypeScript", "JavaScript"],
-    imageUrl: "Pro1.png",
+    imageUrl: "/Pro1.png",
     link: "https://cjtt.vercel.app/"
   },
   {
@@ -84,7 +84,7 @@ export const PROJECTS: Project[] = [
     type: "WEB DEVELOPMENT",
     description: "Welcome to CRMS! The Web-Based Refugee and Migrant Support Platform is designed to provide support to refugees and migrants through an accessible, user-friendly online interface. This platform aims to bridge the gap between refugees/migrants and the resources they need to successfully integrate into their new communities. Founded in 2023, our mission is to offer centralized access to essential services such as housing, healthcare, legal aid, education, and employment opportunities, and to foster community integration through social networking, mentorship programs, and volunteer opportunities.",
     tags: ["HTML", "CSS", "JavaScript"],
-    imageUrl: "Pro2.png",
+    imageUrl: "/Pro2.png",
     link: "https://rattanakpong.github.io/CRMS-Done-/"
   },
   {
@@ -93,7 +93,7 @@ export const PROJECTS: Project[] = [
     type: "GRAPHIC DESIGN (AI)",
     description: "in the Team responsible for designing Newsletters Issues 2 for JCI Phnom Penh.",
     tags: ["Illustrator", "Photoshop", "Canva"],
-    imageUrl: "Pro3.jpg",
+    imageUrl: "/Pro3.jpg",
     link: "https://www.behance.net/gallery/242539603/2025-JCI-Phnom-Penh-Newsletters-Issues-2"
   },
     {
@@ -102,7 +102,7 @@ export const PROJECTS: Project[] = [
     type: "GRAPHIC DESIGN (AI)",
     description: "in the Team responsible for designing Newsletters Issues 3 for JCI Phnom Penh.",
     tags: ["Illustrator", "Photoshop", "Canva"],
-    imageUrl: "Pro4.png",
+    imageUrl: "/Pro4.png",
     link: "https://www.behance.net/gallery/242539209/2025-JCI-Phnom-Penh-Newsletter-Issues-3"
   },
   {
@@ -111,7 +111,7 @@ export const PROJECTS: Project[] = [
     type: "GRAPHIC DESIGN (AI)",
     description: "Designing General Membership Meeting for JCI Phnom Penh.",
     tags: ["Photoshop", "Illustrator", "Canva","Capcut"],
-    imageUrl: "Pro5.png",
+    imageUrl: "/Pro5.png",
     link: "https://www.behance.net/gallery/242538463/2026-General-Membership-Meeting"
   },
   {
@@ -120,7 +120,7 @@ export const PROJECTS: Project[] = [
     type: "GRAPHIC DESIGN (AI)",
     description: "Designing 2026 Young Leaders Program for JCI Phnom Penh.",
     tags: ["Photoshop", "Illustrator", "Canva","Capcut"],
-    imageUrl: "Pro6.jpg",
+    imageUrl: "/Pro6.jpg",
     link: "https://www.behance.net/gallery/242536275/2026-Young-Leaders-Program"
   }
 ];
